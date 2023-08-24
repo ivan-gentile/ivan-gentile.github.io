@@ -22,7 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 6
+paginate: 1
 paginate_path: "/page/:num"
 
 # include
