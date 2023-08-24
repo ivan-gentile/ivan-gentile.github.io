@@ -31,7 +31,7 @@ logo: "/assets/images/logo.png"
 author: "ivan-gentile"
 description: "Ivan Gentile's personal blog, sharing insights on technology, programming, and web development. Dive in to explore my latest projects and thoughts."
 # google analitycs ID
-google_analitycs_id: "" # your id
+google_analitycs_id: "G-LD09G9SLPW" # your id
 # contact form action
 contact_form_action: "https://formspree.io/f/xbjvozjn" # contact form works with : https://formspree.io
 # copyright
