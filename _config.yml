@@ -6,9 +6,6 @@ description: >-
   Dive deep into the world of Artificial Intelligence with Ivan Gentile. Explore insights, articles, and in-depth discussions on transformers and the latest in AI research and applications. Stay updated and expand your knowledge.
 
 
-#################### Comment Section (Disqus) ################
-disqus_shortname: "ivan-gentile" # Add your shortname for Disqus Comment. For example : mr-brown
-
 # Scss Directory
 sass:
   sass_dir: assets/scss
