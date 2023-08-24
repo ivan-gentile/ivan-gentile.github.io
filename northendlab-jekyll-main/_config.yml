@@ -1,14 +1,13 @@
-baseurl: "/northendlab-jekyll" # the subpath of your site, e.g. blog/
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com/
+baseurl: "/home" # the subpath of your site, e.g. blog/
+url: "https://ivan-gentile.github.io" # the base hostname & protocol for your site, e.g. http://example.com/
 
-title: Northendlab Jekyll | Personal Blog Template
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: GPTheory | Ivan Gentile AI Blog
+description: >-
+  Dive deep into the world of Artificial Intelligence with Ivan Gentile. Explore insights, articles, and in-depth discussions on transformers and the latest in AI research and applications. Stay updated and expand your knowledge.
+
 
 #################### Comment Section (Disqus) ################
-disqus_shortname: "" # Add your shortname for Disqus Comment. For example : mr-brown
+disqus_shortname: "ivan-gentile" # Add your shortname for Disqus Comment. For example : mr-brown
 
 # Scss Directory
 sass:

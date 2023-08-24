@@ -4,7 +4,7 @@ menu:
   main:
     - { name: Home, url: "/" }
     - { name: Contact, url: "contact.html" }
-    - { name: Tools, url: "tools.html" }
+
 
   ##### Dropdown menu ######
 
@@ -21,21 +21,21 @@ menu:
   footer:
     - { name: Home, url: "/" }
     - { name: Contact, url: "contact.html" }
-    - { name: Tools, url: "tools.html" }
+ #   - { name: Tools, url: "tools.html" }
 
 ######################### Default Parameters ###########################
 
 # logo
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/logo.png"
 # meta data
-author: "Themefisher"
-description: "This is meta description"
+author: "ivan-gentile"
+description: "Ivan Gentile's personal blog, sharing insights on technology, programming, and web development. Dive in to explore my latest projects and thoughts."
 # google analitycs ID
 google_analitycs_id: "" # your id
 # contact form action
-contact_form_action: "#" # contact form works with : https://formspree.io
+contact_form_action: "https://formspree.io/f/xbjvozjn" # contact form works with : https://formspree.io
 # copyright
-copyright: "Copyright &copy; 2022 Designed and Developed by [Themefisher](https://themefisher.com)"
+copyright: "Copyright &copy; 2023 Designed and Developed by Ivan Gentile"
 
 # preloader
 preloader:
@@ -48,18 +48,19 @@ search:
 
 ############################## Social Site ##########################
 social:
-  - name: "facebook"
-    icon: "ti-facebook" # themify icon pack https://themify.me/themify-icons
-    link: "#"
 
   - name: "twitter"
     icon: "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://twitter.com/gptheoryy"
 
   - name: "github"
     icon: "ti-github" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://github.com/ivan-gentile"
 
   - name: "linkedin"
     icon: "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-    link: "#"
+    link: "https://www.linkedin.com/in/ivan-gentile/"
+
+  - name: "youtube"
+    icon: "ti-youtube" # themify icon pack https://themify.me/themify-icons
+    link: "https://www.youtube.com/@gptheory"
