@@ -26,3 +26,28 @@ Got me realize i do not know much about difference from GPUs and CPUs
 batching inference that i need to read: [this](Ihttps://www.anyscale.com/blog/continuous-batching-llm-inference)
 
 https://en.wikipedia.org/wiki/Christopher_Langan
+
+
+--------------------------------
+Update on date October 21 from Nikos house in frankfurt. 
+
+How numbers are stored in computers: https://mabi.tmpinc.io/numbers/
+It has this nice link the above page https://float.exposed/b0x0000
+
+Best gitrepo to study and review concepts within CS design
+https://github.com/ByteByteGoHq/system-design-101#http-10---http-11---http-20---http-30-quic
+
+A nice one post on REnormalization: https://physics.stackexchange.com/questions/2596/a-pedestrian-explanation-of-renormalization-groups-from-qed-to-classical-field
+
+Karpathy post are always worth talk about: 
+- Marl https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user
+
+
+Post quantum cryptography could be a hack 
+https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/?
+
+A bear catches snowflake: https://twitter.com/AMAZlNGNATURE/status/1714090097778311489?s=20
+
+State of ai report: https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/preview?slide=id.g24daeb7f4f0_0_3462
+
+

@@ -1,8 +1,8 @@
 ---
 layout: contact
-title: "Contact Us"
+title: "Send me a message"
 description : "this is meta description"
-image: "/assets/images/contact.svg"
+image: "/assets/images/contact2.svg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+If you want to send me an email you can do it with the form below.

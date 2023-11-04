@@ -1,22 +1,18 @@
----
-title: "Great Custom Instructions for CGPT"
-image : "/assets/images/post/post-1.gif"
-author: "Ivan Gentile"
-date: 2023-10-25 11:12:58 +0600
-description: "Tweaking spdustin GitHub repo to enable Italian responses in ChatGPT, making it higly effective in Italian"
-tags: [ChatGPT, multilingual, GitHub, customization]
----
-
 # Introduction
 
-In a world where digital interactions form the crux of communication, language barriers can often feel like an iron curtain. One of the tools that have been aiding in seamless conversations is ChatGPT, a robust and capable chatbot rooted in OpenAI's GPT-3.5 architecture. However, as adept as it is, the default linguistic mode is English. This post recounts the adventure of modifying a particular GitHub repository to pave the way for dialogues in Italian, a tweak that can be mirrored for any language. 
+In an era where conversational AI bridges gaps in global communication, language can still be a barrier. ChatGPT, based on OpenAI's GPT-3.5, has been instrumental in breaking down these walls. And now, we've taken it a step further by adding Italian language support. This post explores how we modified the ChatGPT developer edition to make this exciting feature a reality.
 
-The crux of this endeavor was [spdustin's ChatGPT-AutoExpert repository](https://github.com/spdustin/ChatGPT-AutoExpert). The goal was to take a dive into the code, rephrase certain segments, and set up custom instructions enabling the chatbot to respond in Italian. Though the modification was slight, it cracked open a door to a vast realm of possibilities, showcasing how a small tweak can significantly broaden the outreach of such a tool.
+## New Feature: Italian Language Support
 
-Additionally, during this exploration, another intriguing repository caught the eye—[daveshap's ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions). Though it hasn't been put to rigorous testing, it hints at a promising avenue for further customization. It's amusing to think it may not be the go-to solution for anxious teachers, yet it holds a potential spark for many other applications.
+We've recently rolled out a significant update to the ChatGPT developer edition. The chatbot can now respond in Italian, making it even more versatile and accessible to a broader audience. To activate this feature, use the `/language Italian` command during your session.
 
-# Main
-... (continue with the main content where you can delve deeper into the steps taken, challenges faced, and the impact of the modification)
+### Markdown File Updates
 
-# Conclusion
-... (a brief recap of the journey, the benefits of such customization, and a nod to the original repo owner)
+1. **chatgpt__custom_instructions.md**: This file now includes a section that instructs the assistant to respond in Italian. Simply use `/language Italian` to set the assistant's output language to Italian for the session.
+   
+2. **chatgpt__about_me.md**: A new section has been added to highlight the assistant's capability to respond in Italian.
+
+## Conclusion
+
+The addition of Italian language support to ChatGPT opens up a myriad of possibilities, from enhancing customer service interactions to facilitating cross-cultural communication. This minor tweak in the developer edition exemplifies the potential for customizing conversational AI to meet diverse needs. Kudos to the original creators, and here's to a future without language barriers!
+
