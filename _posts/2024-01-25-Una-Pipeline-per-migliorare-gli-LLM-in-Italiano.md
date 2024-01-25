@@ -2,7 +2,7 @@
 title:  "Una Pipeline per migliorare gli LLM in Italiano"
 image : "/assets/images/post/italianrobt.png"
 author: "Ivan Gentile"
-date: 2024-02-35 17:12:58 +0600
+date: 2024-01-25 17:12:58 +0600
 description: "Dalla preparazione di un dataset di domande e risposte"
 tags: [AI, LLM, OpenAI, Mistral, Neural Networks, Fine-tuning, Machine Learning Pipeline, Data Prepartion, Deep Learning]
 ---
