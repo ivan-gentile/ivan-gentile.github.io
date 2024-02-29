@@ -2,7 +2,7 @@
 title:  "Agenti per LLM-based Apps Pro e Contro"
 image : "/assets/images/post/voyager.png"
 author: "Ivan Gentile"
-date: 2024-02-29 01:12:58 +0600
+date: 2024-02-29 00:13:58 +0600
 description: "Esploriamo come gli agenti basati su Large Language Models (LLM) stanno trasformando e mettendo in pericolo le applicazioni web"
 tags: [AI, LLM, Neural Networks, RAG, Retrieval Augmented Generation, Web Applications, Cybersecurity, Prompt Injection, Human-in-the-Loop]
 ---
