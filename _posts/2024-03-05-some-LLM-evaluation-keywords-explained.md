@@ -7,7 +7,7 @@ description: "few-shot, CoT | prompting descriptions vs evaluation metric | pass
 tags: [ LLM, evaluation, key-words, explained, benchmark]
 ---
 
-** What does 0-shot CoT Maj@32 means? **  
+**What does 0-shot CoT Maj@32 means?**  
 
 _skip to the end for recap and answer_ 
 
@@ -65,7 +65,7 @@ For **pass@1** we are checking if LLM's first answer attempt solve the task corr
 
 **Maj@32** measures a model's capacity by checking if over 32 attempts the most frequent answer is the correct solution.
 
-<ins>Therefore, when evaluating an LLM using "0-shot CoT Maj@32," we are looking at how well the model can generate a correct answer, when questioned with a prompt with 0 examples prepended and with the invitation of thinking step by step, by measuring the success of it based on whether over the 32 attempts, the majority of the answers converge on the same solution.</ins>
+Therefore, when evaluating an LLM using "0-shot CoT Maj@32" we are looking at the success rate of the model, when prompted with a question with 0 examples prepended and with "think step by step" or similar variants appended, and the success is based on whether over the 32 replies to such prompt, the majority of the answers converge on the same solution.</ins>
 
 
 
