@@ -115,22 +115,22 @@
 
     li {
       position: relative;
-      padding-left: 20px;
+      padding-left: 20px; // You may want to adjust this if the new bullet points are larger.
       margin-bottom: 15px;
       list-style-type: none;
-
+    
       &::before {
         position: absolute;
-        content: "\e71b";
-        font-family: $icon-font;
-        font-size: 14px;
+        content: '•'; // This is the Unicode character for a bullet point
+        font-size: 20px; // Increase the font size as desired
         left: 0;
-        top: 1px;
-        color: $primary-color;
+        top: 50%; // Adjust this value to vertically center the bullet point
+        transform: translateY(-50%); // This will center-align the bullet point with the text
+        color: $primary-color; // Change to simple black color
         transition: .3s ease;
       }
     }
-  }
+    
 
   table {
     text-align: left;
