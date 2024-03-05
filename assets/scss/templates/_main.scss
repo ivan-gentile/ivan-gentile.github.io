@@ -112,10 +112,12 @@
 
   ul {
     padding-left: 0;
+    font-size: 30px; // Increase the font size as desired
 
     li {
       position: relative;
       padding-left: 20px; // You may want to adjust this if the new bullet points are larger.
+      font-size: 30px; // Increase the font size as desired
       margin-bottom: 15px;
       list-style-type: none;
     
