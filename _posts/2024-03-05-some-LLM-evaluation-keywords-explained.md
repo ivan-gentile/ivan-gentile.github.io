@@ -65,7 +65,7 @@ For **pass@1** we are checking if LLM's first answer attempt solve the task corr
 
 **Maj@32** measures a model's capacity by checking if over 32 attempts the most frequent answer is the correct solution.
 
-Therefore, when evaluating an LLM using "0-shot CoT Maj@32" we are looking at the success rate of the model, when prompted with a question with 0 examples prepended and with "think step by step" or similar variants appended, and the success is based on whether over the 32 replies to such prompt, the majority of the answers converge on the same solution.</ins>
+Therefore, when evaluating an LLM using "0-shot CoT Maj@32" we are looking at the success rate of the model, when prompted with a question with 0 examples prepended and with "think step by step" or similar variants appended, and the success is based on whether over the 32 replies to such prompt, the majority of the answers converge on the same solution.
 
 
 
